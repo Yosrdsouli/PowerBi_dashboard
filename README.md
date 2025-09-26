@@ -11,3 +11,5 @@ Open the `.pbix` file in Power BI Desktop to explore the dashboards.
 ![Page 6](screenshot6.png)
 # Notes
 ⚠️ All client data has been anonymized.
+# Download
+[Download the Power BI dashboard](Dashboard_public.pbix)
